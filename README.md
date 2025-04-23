@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Talent Acquisition Platform with Content based filtering<br>👯 I’m looking to collaborate on Innovative Tech Solutions for Healthcare and Job-Seeking platforms.<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about Web Development<br>⚡ Fun fact I am a fun guy to work with.
+🔭 I’m currently working on a Talent Acquisition Platform with Content based filtering<br>👯 I’m looking to collaborate on Innovative Tech Solutions for Learning Management Systems and Job-Seeking platforms.<br>🌱 I’m currently into Full Stack Development<br>💬 Ask me about Web Development<br>⚡ Fun fact I am a fun guy to work with.
 
 
 ## 🌐 Socials:
