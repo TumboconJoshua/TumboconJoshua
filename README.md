@@ -64,7 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TumboconJoshua&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=2563EB&icon_color=2563EB" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=TumboconJoshua&icon=0&color=2563EB" alt="Profile Views" />
-</div>
