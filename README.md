@@ -21,10 +21,9 @@
 
 - 💼 **Current Role:** Full Stack Developer at **IDESS Interactive Technologies Inc.**
 - 🎓 **Education:** BS in Information Technology, **Gordon College**
-- 🔭 **Currently working on:** A Talent Acquisition Platform with Content-based filtering.
-- 👯 **Looking to collaborate on:** Innovative Tech Solutions for Healthcare and Job-Seeking platforms.
+- 🔭 **Currently working on:** A eLearning Management System dedicated for Seafarers.
+- 👯 **Looking to collaborate on:** Innovative Tech Solutions and Web Development.
 - 🌱 **Learning & Exploring:** Advanced Full Stack Development & AI Integrations (OpenAI, Anthropic, Gemini).
-- 💬 **Ask me about:** Web Development, React, Laravel, Next.js, or any interesting tech!
 
 ---
 
