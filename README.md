@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Joshua Tumbocon!
 
-<h3 align="center">Full Stack Developer from Olongapo, Philippines 📍</h3>
+<h3 align="center">Full Stack Developer from Olongapo, Philippines 🇵🇭</h3>
 
 <p align="center">
   I build reliable, scalable web applications with a focus on clean code, performance, and meaningful digital experiences.
